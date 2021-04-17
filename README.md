@@ -76,7 +76,7 @@ A step by step series of examples that tell you how to get the server and client
 Running the server
 
 ```
-~esa-assign2/user api>npm start
+~CART-Esa-Assignment-2/userapi>npm start
 ```
 
 Output :
@@ -98,7 +98,7 @@ Database Connected
 new term:
 
 ```
-~esa-assign2/product api>npm start
+~CART-Esa-Assignment-2/productapi>npm start
 ```
 OUPUT: 
 
@@ -119,7 +119,7 @@ Running the userMicroservice code -essentially acts as a client to the api
 new term:
 
 ```
-~esa-assign2/>python userMicroservice.py
+~CART-Esa-Assignment-2/>python userMicroservice.py
 ```
 
 Running the productMicroservice code -essentially acts as a store attendent to the api
@@ -127,7 +127,7 @@ Running the productMicroservice code -essentially acts as a store attendent to t
 new term:
 
 ```
-~esa-assign2/>python productMicroservice.py
+-CART-Esa-Assignment-2/>python productMicroservice.py
 ```
 Note: the microservice.py files have their own instructions within the code. 
 
